@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 1,
-    "start": "2019-12-14T06:13:26.313Z",
-    "end": "2019-12-14T06:13:26.375Z",
-    "duration": 62
+    "start": "2019-12-14T06:14:36.800Z",
+    "end": "2019-12-14T06:14:36.866Z",
+    "duration": 66
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "each sub-array of the default 'values' prop is an array",
       "fullTitle": "<Matrix /> each sub-array of the default 'values' prop is an array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "each sub-array of the default 'values' prop is an array",
       "fullTitle": "<Matrix /> each sub-array of the default 'values' prop is an array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
