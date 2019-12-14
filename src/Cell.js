@@ -8,9 +8,9 @@ export default class Cell extends Component {
             color:this.props.value
         }
   }
-  changeColor =(color)=> {
+  changeColor =(newcolor)=> {
    return this.setState({
-              color:color
+              color:newcolor
           });
   }
   render(){
